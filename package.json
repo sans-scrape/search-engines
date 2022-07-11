@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@sans-scrape/scraper": "^0.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
